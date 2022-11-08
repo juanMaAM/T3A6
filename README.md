@@ -23,3 +23,4 @@ ISR:
 ~~~
 ## Etapa 3 Diseño de la solución
 
+![](
