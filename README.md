@@ -23,4 +23,7 @@ ISR:
 ~~~
 ## Etapa 3 Diseño de la solución
 
-![](
+![](https://github.com/juanMaAM/T3A6/blob/main/T3A6.png)
+
+
+## Etapa 4 desarrollo de la solucion
